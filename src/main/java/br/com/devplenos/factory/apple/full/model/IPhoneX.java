@@ -1,4 +1,4 @@
-package br.com.devplenos.factory.apple.model;
+package br.com.devplenos.factory.apple.full.model;
 
 public class IPhoneX extends IPhone {
 

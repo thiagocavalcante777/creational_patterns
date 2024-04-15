@@ -1,4 +1,4 @@
-package br.com.devplenos.factory.apple.model;
+package br.com.devplenos.factory.apple.halfSimple.model;
 
 public abstract class IPhone {
 	
